@@ -5,7 +5,7 @@ subject: 'cat:cs.*'
 keywords:
         K-anonymity: 2
         mondrian: 2
-        differential privacy: 2
+        differential privacy: 3
         
         data linkage: 1
         database: 1
@@ -19,4 +19,4 @@ keywords:
         deep learning: 1
 
 # 通知の閾値
-score_threshold: 5
+score_threshold: 3
